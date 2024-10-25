@@ -21,6 +21,6 @@ repos:
   rev: v1.11.2
   hooks:
   - id: mypy
-    additional_dependencies: [types-simplejson, types-pytz, packaging]
+    additional_dependencies: [types-simplejson, packaging]
     # these files are checked under `tox -e mypy-test`
     exclude: ^tests/mypy_test_cases/.*$
