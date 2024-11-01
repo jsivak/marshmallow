@@ -1,6 +1,15 @@
 Changelog
 ---------
 
+3.23.1 (2024-11-01)
+*******************
+
+Support:
+
+- Document ``absolute`` parameter of ``URL`` field (:pr:`2327`).
+- Documentation: Remove (outdated) minimum Python 3 minor version in
+  documentation and README (:pr:`2323`).
+
 3.23.0 (2024-10-17)
 *******************
 
